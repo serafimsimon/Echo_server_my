@@ -1,0 +1,4 @@
+rootProject.name = 'Echo_server_my'
+include 'Server'
+include 'Client'
+
